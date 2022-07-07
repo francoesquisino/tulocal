@@ -40,3 +40,30 @@
 .iconCartShopping {
   color: white;
 }
+
+.buttonAdd {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.listProducts {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.card {
+  margin: 5px;
+  padding: 10px;
+  align-items: center;
+}
+.botonera {
+  display: flex;
+  padding: 1px;
+}
+.button {
+  margin: 2px;
+}
+.cardText {
+  margin: 10px;
+  padding: 10px;
+}
