@@ -15,3 +15,7 @@
   justify-content: end;
   width: 100%;
 }
+.ItemList {
+  display: flex;
+  flex-wrap: wrap;
+}

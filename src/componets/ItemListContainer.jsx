@@ -1,5 +1,12 @@
+import ItemList from "./ItemList";
+import React, { useState, useEffect } from "react";
+
 function ItemListContainer({ text }) {
-  return <h2>{text}</h2>;
+  return (
+    <div className="ItemList">
+      <ItemList />
+    </div>
+  );
 }
 
 export default ItemListContainer;
