@@ -1,5 +1,5 @@
 import ItemList from "./ItemList";
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 function ItemListContainer({ text }) {
   return (
